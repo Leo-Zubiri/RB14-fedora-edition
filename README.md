@@ -40,6 +40,16 @@ ccccccccccccccccccccccccccccc:'.          Locale: en_US.UTF-8
 
 ---
 
+## ⚠️ Pasos obligatorios post-instalación
+
+Estos fixes deben aplicarse inmediatamente después de instalar Fedora. Sin ellos el sistema es inestable.
+
+| | Fix | Descripción |
+|---|---|---|
+| 🔴 | [gnome-software crash + NVIDIA/Wayland](docs/gnome-software-crash.md) | GNOME Shell se reinicia solo, iconos desaparecen — bug activo en Fedora 43 |
+
+---
+
 ## Guías
 
 | | Tema | Descripción |
