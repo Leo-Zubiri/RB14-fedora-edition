@@ -2,6 +2,37 @@
 
 Guía basada en experiencia real instalando y configurando Fedora 43 en el Razer Blade 14 2023.
 
+```
+             .',;::::;,'.                 razer@blade
+         .';:cccccccccccc:;,.             -----------
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 43 (Workstation Edition) x86_64
+    .:cccccccccccccccccccccccccc:.        Host: Blade 14 - RZ09-0482 (9.04)
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      Kernel: Linux 6.18.12-200.fc43.x86_64
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     Uptime: 27 mins
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    Packages: 2347 (rpm)
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    Shell: bash 5.3.0
+:cccccccccccccc;MMM.;cccccccccccccccc:    Display (TMX0003): 2560x1600 @ 1.67x in 14", 240 Hz [Built-in]
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:    DE: GNOME 49.4
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    WM: Mutter (Wayland)
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'    WM Theme: Adwaita
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Theme: Adwaita [GTK2/3/4]
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      Icons: Adwaita [GTK2/3/4]
+cccccc;dNMWXXXWM0:;cccccccccccccc:,       Font: Adwaita Sans (11pt) [GTK2/3/4]
+cccccccc;.:odl:.;cccccccccccccc:,.        Cursor: Adwaita (24px)
+ccccccccccccccccccccccccccccc:'.          Terminal: Ptyxis 49.2
+:ccccccccccccccccccccccc:;,..             Terminal Font: Adwaita Mono (11pt)
+ ':cccccccccccccccc::;,.                  CPU: AMD Ryzen 9 7940HS (16) @ 5.26 GHz
+                                          GPU 1: NVIDIA GeForce RTX 4070 Max-Q / Mobile [Discrete]
+                                          GPU 2: AMD Radeon 780M Graphics [Integrated]
+                                          Memory: 6.50 GiB / 30.55 GiB (21%)
+                                          Swap: 0 B / 8.00 GiB (0%)
+                                          Disk (/): 7.93 GiB / 951.28 GiB (1%) - btrfs
+                                          Local IP (wlp3s0): 192.168.0.215/24
+                                          Battery (Blade): 79% [AC Connected]
+                                          Locale: en_US.UTF-8
+```
+
+
 ## Especificaciones del hardware
 
 | Componente | Detalle |
