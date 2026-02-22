@@ -49,3 +49,4 @@ ccccccccccccccccccccccccccccc:'.          Locale: en_US.UTF-8
 | 🔊 | [Fix altavoces internos](rb14_speakers/rb14_speakers_service.md) | Servicio systemd para Realtek ALC298 |
 | 🐍 | [OpenRazer](docs/open-razer.md) | Control de iluminación y periféricos RGB |
 | 🔋 | [Batería al 80%](docs/battery.md) | Battery Care integrado del equipo |
+| 🎨 | [Refine](docs/refine.md) | Reemplaza GNOME Tweaks — botones de ventana y más |
